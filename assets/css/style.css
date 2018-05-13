@@ -1,0 +1,33 @@
+h1{
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 20PX;
+    margin-right: 65%;
+    margin-left: 15%;
+}
+section{
+    border: solid;
+    border-color: lightgrey;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h2{
+    color:#4aaaa5;
+    font-size: 40px;
+    border-bottom: solid;
+    border-bottom-color: lightgray;
+
+}
+
+footer{
+    background-color: grey;
+    margin-top: 17%;
+    padding: 26px;
+    text-align: center;
+}
+
+h3{
+    text-align: right;
+    margin-right: 15%;
+}
